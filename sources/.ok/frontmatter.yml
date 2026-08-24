@@ -1,0 +1,5 @@
+title: Sources
+description: 논문, 기술 보고서, 공식 발표, 독립 평가 등 LLM 조사에 사용한 원문과 출처 메타데이터를 보존한다.
+tags:
+  - llm
+  - sources
